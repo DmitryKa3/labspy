@@ -1,0 +1,11 @@
+{
+    "tablitsa1": {
+        "id": "INTEGER",
+        "Textelementa": "TEXT",
+        "4to-to": "TEXT"
+    },
+    "sqlite_sequence": {
+        "name": "",
+        "seq": ""
+    }
+}
